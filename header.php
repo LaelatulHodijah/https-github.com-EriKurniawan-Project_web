@@ -9,9 +9,9 @@
 					
 				<!--start: Logo -->
 				<div class="logo span3">
-						
+					<center>
 					<a class="brand" href="index.php"><img src="img/logo.km.jpeg" alt="Logo"></a>
-						
+</center>
 				</div>
 				<!--end: Logo -->
 					
